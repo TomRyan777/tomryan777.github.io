@@ -2,6 +2,8 @@ body{
 	text-align: center;
 	background: url(images/bacground.jpg);
 	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
 }
 #slogan {
 	font-weight: bold;
