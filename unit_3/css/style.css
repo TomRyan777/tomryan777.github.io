@@ -1,5 +1,10 @@
 body{
 	text-align: center;
-	background: url("https://www.pinterest.co.uk/pin/555631672758647924/");
+	background: url(images/bacground.jpg);
 	background-size: cover;
+}
+#slogan {
+	font-weight: bold;
+	font-size: 800;
+
 }
