@@ -37,8 +37,8 @@ ul{
 li{
 
 }
-img{
-
+img {
+	width: 100%;
 }
 #slogan{
 	text-transform: uppercase;
