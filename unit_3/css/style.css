@@ -1,9 +1,14 @@
 body{
 	text-align: center;
-	background:"images/bacground.jpg";
+	background:"images/background.jpg";
 	background-size: cover;
-	color: #255,255,255;
+	color: (255,255,255);
 	font-family: Helvetica;
+}
+h1{
+	color: (230,100,50);
+	font-size: 2000;
+	font-weight: bold;
 }
 #slogan {
 	font-weight: bold;
