@@ -1,7 +1,6 @@
 body{
 	text-align: center;
 	background: url("images/background.jpg");
-	background-size: cover;
 	font-family: Helvetica;
 }
 h1{
@@ -10,7 +9,18 @@ h1{
 	font font-size: 900;
 	font-weight: bold;
 }
+p{
 
+}
+ul{
+
+}
+li{
+
+}
+img{
+	background-size: cover;
+}
 #slogan{
 	text-transform: uppercase;
 	font-weight: bold;
