@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
 body{
 
 
 	text-align: center;
-	font-family: 'Montserrat', Arial, sans-serif;
+	font-family: 'Droid Serif', sans-serif;
 	font-size: 20px;
 	color: rba(155,200,255);
 	line-height: 1.5;
@@ -13,6 +13,6 @@ body{
 }
 
 h1{
-	font-family: 'Source Sans Pro', sans-serif; 
+	font-family: 'Droid Sans', sans-serif; 
 	color: rba(193,193,193);
 }
