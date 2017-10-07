@@ -14,5 +14,10 @@ body{
 
 h1{
 	font-family: 'Droid Sans', sans-serif; 
-	color: rba(193,193,193);
+	color: rgb(190,200,250);
+}
+
+h2{ 
+	font-family: 'Droid Sans', sans-serif;
+	color: rgb(100,125,150);
 }
