@@ -2,7 +2,7 @@
 
 body{
 
-	background: url(images/background.jpg);
+	background: url('background.jpg');
 	text-align: center;
 	font-family: 'Droid Serif', sans-serif;
 	font-size: 20px;
