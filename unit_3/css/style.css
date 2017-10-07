@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Source+Sans+Pro');
+
 body{
 
 	text-align: center;
@@ -5,7 +7,7 @@ body{
 	font-size: 20px;
 	color: rba(155,200,255);
 	line-height: 1.5;
-	background-image: url("background.jpg");
+	
 
 }
 
