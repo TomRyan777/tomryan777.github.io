@@ -12,5 +12,6 @@ body{
 }
 
 h1{
+	font-family: 'Montserrat', sans-serif; 
 	color: rba(193,193,193);
 }
