@@ -1,11 +1,11 @@
 body{
 
-	text-align: left;
+	text-align: center;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	color: rba(155,200,255);
 	line-height: 1.5;
-	background-image: 100%;
+	background-image: url("background.jpg");
 
 }
 
