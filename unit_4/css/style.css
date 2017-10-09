@@ -6,7 +6,7 @@ body{
 	text-align: center;
 	font-family: 'Droid Serif', sans-serif;
 	font-size: 20px;
-	color: rba(155,200,255);
+	color: rba(250,250,250);
 	line-height: 1.5;
 	
 
@@ -14,10 +14,10 @@ body{
 
 h1{
 	font-family: 'Droid Sans', sans-serif; 
-	color: rgb(250,250,250);
+	color: rgb(0,0,0);
 }
 
 h2{ 
 	font-family: 'Droid Sans', sans-serif;
-	color: rgb(250,250,250);
+	color: rgb(0,0,0);
 }
