@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
-title { 
+head { 
 	background-color: grey;
 	border: 40px;
 	padding: 30px; 
