@@ -17,7 +17,7 @@ nav a {
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 800;
 	background-color: blue;
-	text-decoration-color: black;
+	color: black;
 	float: left;
 	padding: 20px;
 }
