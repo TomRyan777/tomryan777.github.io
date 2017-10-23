@@ -7,11 +7,12 @@ header{
 	color: black
 }
 
-body {
+#backgroundimg {
 	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
-}
 
 h1{
 	font-family: 'Droid Sans', sans-serif; 
