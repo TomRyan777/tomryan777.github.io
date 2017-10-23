@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
+
+header{ 
+	background-color: grey;
+	border: 40px;
+	padding: 30px; 
+	color: black
+}
+
+#backgroundimg {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+h1{
+	font-family: 'Droid Sans', sans-serif; 
+	color: rgb(0,0,0);
+}
+
+h2{ 
+	font-family: 'Droid Sans', sans-serif;
+	color: rgb(0,0,0);
+}
+
+.fashion {
+	background-color: orange;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.watches {
+	background-color: orange;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.travel {
+	background-color: orange;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+}
+#one {
+	background-color: blue;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two {
+	background-color: yellow;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#three {
+	background-color: green;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#four {
+	background-color: red;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+footer {
+	background-color: grey;
+	border: 1px black solid;
+	padding: 20px:
+}
+}
