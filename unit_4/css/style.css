@@ -23,6 +23,25 @@ h2{
 	color: rgb(0,0,0);
 }
 
+.fashion {
+	background-color: orange;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.watches {
+	background-color: orange;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.travel {
+	background-color: orange;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+}
 #one {
 	background-color: blue;
 	border: 1px black solid;
@@ -47,17 +66,6 @@ h2{
 	padding: 20px;
 }
 
-#five {
-	background-color: grey;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#six {
-	background-color: pink;
-	border: 1px black solid;
-	padding: 20px;
-}
 
 footer {
 	background-color: grey;
