@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
-head { 
+header{ 
 	background-color: grey;
 	border: 40px;
 	padding: 30px; 
 	color: black
-
 }
 
 #backgroundimg {
