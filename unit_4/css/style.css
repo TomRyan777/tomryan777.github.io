@@ -13,6 +13,13 @@ header{
 	background-attachment: fixed;
 }
 
+nav a {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 800;
+	background-color: blue;
+	float: left;
+	padding: 20px;
+}
 
 h1{
 	font-family: 'Droid Sans', sans-serif; 
