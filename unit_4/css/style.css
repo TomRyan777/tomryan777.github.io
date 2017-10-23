@@ -7,9 +7,9 @@ header{
 	color: black
 }
 
-#backgroundimg {
-	background-image: 100%;
-	background-color: green;
+body {
+	background-image: url(background.jpg)
+}
 
 }
 
