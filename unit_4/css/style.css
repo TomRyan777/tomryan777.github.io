@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
-title { font-size: large; 
+title { 
+	background-color: grey;
+	border: 40px;
+	padding: 30px; 
 	color: black
 
 }
@@ -54,4 +57,11 @@ h2{
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
+}
+
+footer {
+	background-color: grey;
+	border: 1px black solid;
+	padding: 20px:
+}
 }
