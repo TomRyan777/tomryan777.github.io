@@ -82,8 +82,8 @@ h2{
 	background-color: green;
 	border: 1px black solid;
 	padding: 20px;
-	float: left;
-	width: 50%;
+	float: right;
+	width: 62%;
 }
 
 .clearfix:after{
