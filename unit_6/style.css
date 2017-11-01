@@ -18,11 +18,11 @@ header{
 	color: black
 }
 
-#backgroundimg {
-	background-image: url("background.jpg");
+#boat {
+	background-image: url(background.jpg);
 	background-size: cover;
 	width: 100%;
-	margin: 20px;
+	padding: 100px 0;
 }
 
 nav a:link{
