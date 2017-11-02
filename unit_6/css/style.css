@@ -14,7 +14,7 @@ body{
 }
 nav a{
 	font-family: 'Droid Sans', sans-serif;
-	background-color: blue;
+	background-color: grey;
 	color: #fff;
 	display: inline-block;
 	padding: 1em 2em;
@@ -30,6 +30,9 @@ section{
 
 h1{
 	font-family: 'Droid Sans', sans-serif;
+	font-size: 4em;
+	color: rgba(0,0,0,.5)
+
 }
 
 h2{ 
@@ -72,19 +75,19 @@ h2{
 }
 
 #description {
-	background-color: blue;
+	background-color: rgb(211,211,211);
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #member {
-	background-color: yellow;
+	background-color: rgb(128,128,128);
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #style {
-	background-color: green;
+	background-color: rgb(119,136,153);
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -97,7 +100,7 @@ h2{
 
 
 footer {
-	background-color: grey;
+	background-color: rgb(112,128,144);
 	border: 1px black solid;
 	padding: 20px:
 }
