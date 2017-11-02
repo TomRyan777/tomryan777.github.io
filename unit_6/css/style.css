@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
+body{
+	background-color: white;
+	font-size: 16px;
+}
+
 header{ 
 	background-color: grey;
 	border: 40px;
@@ -7,47 +12,74 @@ header{
 	color: black
 }
 
-#backgroundimg {
-	background-image: url("background.jpg");
-	background-size: 100%;
+#boat {
+	background-image: url(background.jpg);
+	background-size: cover;
+	width: 100%;
+	padding: 100px 0;
 }
 
-nav a {
+nav a:link{
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 800;
+	font-size: 8em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
 	background-color: blue;
 	color: black;
 	float: left;
 	padding: 20px;
+	padding-bottom: 5px;
+
+}
+
+nav a:visited{
+	color: white;
+}
+
+nav a:hover{
+	border-bottom: 1px solid white;
+}
+
+nav a:active{
+	color: white;
+}
+
+main{
+	background-color: blue;
+	padding: 50px 0;
+}
+
+section{
+	padding: 50px 0;
 }
 
 h1{
 	font-family: 'Droid Sans', sans-serif; 
 	color: rgb(0,0,0);
+	text-align: center;
+	margin: 200px 0 0;
 }
 
 h2{ 
+	font-size: 8em;
 	font-family: 'Droid Sans', sans-serif;
 	color: rgb(0,0,0);
+	text-align: center;
 }
 
 #fashion {
-	background-color: orange;
+	background-color: red;
 	border: 1px black solid;
 	padding: 20px;
-	float: none;
+	float: left;
+	width: 30%;
+
 }
 
-#watches {
-	background-color: green;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 30%;
-}
 
 #travel {
-	background-color: blue;
+	background-color: green;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -63,7 +95,12 @@ h2{
 	height: 0;
 
 }
+
+.wrapper{
+	width: 90%;
+	margin: auto;
 }
+
 #one {
 	background-color: blue;
 	border: 1px black solid;
@@ -94,4 +131,4 @@ footer {
 	border: 1px black solid;
 	padding: 20px:
 }
-}
+
