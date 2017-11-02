@@ -1,64 +1,35 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body{
 	background-color: white;
 	font-size: 16px;
+	font-family: 'Droid Serif', serif;
+	color: #333;
 }
-
-header{ 
-	background-color: grey;
-	border: 40px;
-	padding: 30px; 
-	color: black
-}
-
-#boat {
-	background-image: url(background.jpg);
+#intro {
+	background-image: url(../images/background.jpg);
 	background-size: cover;
-	width: 100%;
-	padding: 100px 0;
+	padding: 10em 0 0 5em;
+	height: 90vh;
 }
-
-nav a:link{
+nav a{
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 2em;
-	text-align: center;
-	text-transform: uppercase;
-	letter-spacing: 2px;
 	background-color: blue;
-	color: black;
-	float: left;
-	padding: 20px;
-	padding-bottom: 5px;
-
-}
-
-nav a:visited{
-	color: white;
-}
-
-nav a:hover{
-	border-bottom: 1px solid white;
-}
-
-nav a:active{
-	color: white;
+	color: #fff;
+	display: inline-block;
+	padding: 1em 2em;
+	text-decoration:none;
 }
 
 main{
-	background-color: blue;
-	padding: 50px 0;
 }
 
 section{
-	padding: 50px 0;
+	padding:3em 0;
 }
 
 h1{
-	font-family: 'Droid Sans', sans-serif; 
-	color: rgb(0,0,0);
-	text-align: center;
-	margin: 200px 0 0;
+	font-family: 'Droid Sans', sans-serif;
 }
 
 h2{ 
@@ -67,23 +38,22 @@ h2{
 	color: rgb(0,0,0);
 	text-align: center;
 }
-
-#fashion {
-	background-color: red;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 30%;
-
+#articles a {
+	width: 50%;
+	float:left;
+	padding:2em;
 }
-
-
+#articles img {
+	display:block;
+	width:100%;
+}
+#fashion {
+	/* background-color: red; */
+	/* border: 1px black solid; */
+}
 #travel {
-	background-color: green;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 62%;
+	/* background-color: green; */
+	/* border: 1PX SOLID; */
 }
 
 .clearfix:after{
@@ -97,8 +67,8 @@ h2{
 }
 
 .wrapper{
-	width: 90%;
-	margin: auto;
+	max-width:1200px;
+	margin:auto;
 }
 
 #one {
@@ -120,7 +90,7 @@ h2{
 }
 
 #four {
-	background-color: red;
+	background-color: #c0bfbf;
 	border: 1px black solid;
 	padding: 20px;
 }
