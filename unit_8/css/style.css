@@ -11,7 +11,7 @@ body{
 	background-image: url(../images/background.jpg);
 	background-size: cover;
 	padding: 10em 0 0 5em;
-	height: 90vh;
+	height: 60vh;
 }
 nav a{
 	font-family: 'Droid Sans', sans-serif;
@@ -110,3 +110,9 @@ footer {
 	header { float: none;}
 	nav {float: none;}
 }
+
+@media only screen and (max-width: 500px) {
+	body { font-size: 16px; }
+	header { float: none;}
+	nav {float: none;}
+	#icon 
