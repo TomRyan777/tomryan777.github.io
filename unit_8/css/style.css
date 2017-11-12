@@ -39,8 +39,9 @@ h1{
 h2{ 
 	font-size: 2em;
 	font-family: 'Droid Sans', sans-serif;
-	color: rgb(0,0,0);
+	color: rgb(205, 127, 50);
 	text-align: center;
+	text-transform: uppercase;
 }
 #articles a {
 	width: 50%;
