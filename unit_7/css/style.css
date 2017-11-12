@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
+* { margin:0; padding:0; box-sizing:border-box; }
+body{
+	background-color: white;
+	font-size: 16px;
+	font-family: 'Droid Serif', serif;
+	color: #333;
+}
+#intro {
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	padding: 10em 0 0 5em;
+	height: 90vh;
+}
+nav a{
+	font-family: 'Droid Sans', sans-serif;
+	background-color: grey;
+	color: #fff;
+	display: inline-block;
+	padding: 1em 2em;
+	text-decoration:none;
+}
+
+main{
+}
+
+section{
+	padding:3em 0;
+}
+
+h1{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 4em;
+	color: rgba(0,0,0,.5)
+
+}
+
+h2{ 
+	font-size: 2em;
+	font-family: 'Droid Sans', sans-serif;
+	color: rgb(0,0,0);
+	text-align: center;
+}
+#articles a {
+	width: 50%;
+	float:left;
+	padding:2em;
+}
+#articles img {
+	display:block;
+	width:100%;
+}
+#fashion {
+	/* background-color: red; */
+	/* border: 1px black solid; */
+}
+#travel {
+	/* background-color: green; */
+	/* border: 1PX SOLID; */
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+
+}
+
+.wrapper{
+	max-width:1200px;
+	margin:auto;
+}
+
+#description {
+	font-size: 2em:;
+	
+}
+
+#member {
+	background-color: rgb(128,128,128);
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#style {
+	background-color: rgb(119,136,153);
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#property {
+	background-color: #c0bfbf;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+footer {
+	background-color: rgb(112,128,144);
+	border: 1px black solid;
+	padding: 20px:
+}
+
