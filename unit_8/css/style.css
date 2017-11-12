@@ -47,7 +47,7 @@ h2, h3{
 #articles a {
 	width: 50%;
 	float:left;
-	padding:2em;
+	padding:2em 2em;
 	
 }
 #articles img {
@@ -83,6 +83,7 @@ h2, h3{
 	font-size: 1.5em;
 	color: rgb(255,255,255);
 	margin: 25px 25px;
+	padding: 2em 2em;
 	
 }
 
