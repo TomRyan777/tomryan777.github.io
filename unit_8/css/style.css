@@ -15,7 +15,7 @@ body{
 }
 nav a{
 	font-family: 'Droid Sans', sans-serif;
-	background-color: grey;
+	background-color: rgb(193,193,193);
 	color: #fff;
 	display: inline-block;
 	padding: 1em 2em;
