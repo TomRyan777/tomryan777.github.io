@@ -36,7 +36,7 @@ h1{
 
 }
 
-h2{ 
+h2, h3{ 
 	font-size: 2em;
 	font-family: 'Droid Sans', sans-serif;
 	color: rgb(205, 127, 50);
@@ -97,6 +97,7 @@ h2{
 	background-color: rgb(255,255,255);
 	border: 1% black solid;
 	padding: 20%;
+	color: rgb(193,193,193);
 }
 
 #property {
