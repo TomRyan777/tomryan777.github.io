@@ -5,7 +5,7 @@ body{
 	background-color: white;
 	font-size: 18px;
 	font-family: 'Droid Serif', serif;
-	color: #333;
+	color: rgb(255,255,255);
 }
 #intro {
 	background-image: url(../images/background.jpg);
@@ -86,26 +86,26 @@ h2{
 }
 
 #member {
-	background-color: rgb(128,128,128);
+	background-color: rgb(255,255,255);
 	border: 1% black solid;
 	padding: 20%;
 }
 
 #style {
-	background-color: rgb(119,136,153);
+	background-color: rgb(255,255,255);
 	border: 1% black solid;
 	padding: 20%;
 }
 
 #property {
-	background-color: #c0bfbf;
+	background-color: rgb(255,255,255);
 	border: 1% black solid;
 	padding: 20%;
 }
 
 
 footer {
-	background-color: rgb(112,128,144);
+	background-color: rgb(255,255,255);
 	border: 1% black solid;
 	padding: 20%:
 }
