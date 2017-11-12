@@ -9,7 +9,7 @@ body{
 }
 #intro {
 	background-image: url(../images/background.jpg);
-	background-size: 75%;
+	background-size: cover;
 	background-repeat:no-repeat;
 	background-color: white;
 	padding: 10em 0 0 5em;
