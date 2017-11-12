@@ -10,7 +10,7 @@ body{
 #intro {
 	background-image: url(../images/background.jpg);
 	background-size: cover;
-	padding: 5em 0 0 5em;
+	padding: 3em 0 0 3em;
 	height: 90vh;
 }
 nav a{
@@ -27,7 +27,7 @@ main{
 }
 
 section{
-	padding:4em 4em;
+	padding:2em 2em;
 }
 
 h1{
@@ -47,7 +47,7 @@ h2, h3{
 #articles a {
 	width: 50%;
 	float:left;
-	padding:2em 2em;
+	padding:1em 1em;
 	
 }
 #articles img {
@@ -83,7 +83,7 @@ h2, h3{
 	font-size: 1.5em;
 	color: rgb(255,255,255);
 	margin: 25px 25px;
-	padding: 2em 2em;
+	padding: 1em 1em;
 	
 }
 
