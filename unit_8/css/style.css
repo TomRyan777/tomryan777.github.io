@@ -11,7 +11,7 @@ body{
 	background-image: url(../images/background.jpg);
 	background-size: cover;
 	padding: 30em 0 0 10em;
-	
+	height: 90vh;
 }
 nav a{
 	font-family: 'Droid Sans', sans-serif;
