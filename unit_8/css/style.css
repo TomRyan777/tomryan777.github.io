@@ -81,6 +81,10 @@ h2{
 	
 }
 
+#mobile {
+	display: none;
+}
+
 #member {
 	background-color: rgb(128,128,128);
 	border: 1% black solid;
@@ -125,7 +129,7 @@ footer {
 	display: block;
 }
 
-nav:hover a {
+	nav:hover a {
 	display: block;
 }
 
