@@ -20,13 +20,14 @@ nav a{
 	display: inline-block;
 	padding: 1em 2em;
 	text-decoration:none;
+
 }
 
 main{
 }
 
 section{
-	padding:3em 0;
+	padding:2em 0;
 }
 
 h1{
@@ -51,6 +52,7 @@ h2, h3{
 #articles img {
 	display:block;
 	width:90%;
+
 }
 #fashion {
 	/* background-color: red; */
