@@ -2,7 +2,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body{
-	background-color: rgb(105,105,105);
+	background-color: rgb(193,193,193);
 	font-size: 18px;
 	font-family: 'Droid Serif', serif;
 	color: rgb(255,255,255);
@@ -15,7 +15,7 @@ body{
 }
 nav a{
 	font-family: 'Droid Sans', sans-serif;
-	background-color: rgb(193,193,193);
+	background-color: rgb(105,105,105);
 	color: rgb(255, 255, 255);
 	display: inline-block;
 	padding: 1em 2em;
@@ -87,24 +87,24 @@ h2, h3{
 }
 
 #member {
-	background-color: rgb(105,105,105);
+	background-color: rgb(193,193,193);
 	border: 1% black solid;
 	padding: 20%;
-	color: rgb(193, 193, 193);
+	color: rgb(105, 105, 105);
 }
 
 #style {
-	background-color: rgb(105,105,105);
+	background-color: rgb(193,193,193);
 	border: 1% black solid;
 	padding: 20%;
-	color: rgb(193,193,193);
+	color: rgb(105,105,105);
 }
 
 #property {
-	background-color: rgb(105,105,105);
+	background-color: rgb(193,193,193);
 	border: 1% black solid;
 	padding: 20%;
-	color: rgb(193, 193, 193);
+	color: rgb(105, 105, 105);
 }
 
 
