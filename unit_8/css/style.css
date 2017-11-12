@@ -3,7 +3,7 @@
 
 body{
 	background-color: white;
-	font-size: 16px;
+	font-size: 22px;
 	font-family: 'Droid Serif', serif;
 	color: #333;
 }
@@ -105,3 +105,9 @@ footer {
 	padding: 20%:
 }
 
+@media only screen and (max-width: 850px) {
+	body { font-size: 18px; }
+	nav a { float: none;
+	}
+
+}
