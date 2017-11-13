@@ -42,6 +42,7 @@ h2, h3{
 	font-family: 'Droid Sans', sans-serif;
 	color: rgb(205, 127, 50);
 	text-align: center;
+	margin: 25px 25px;
 	
 }
 #articles a {
@@ -54,6 +55,7 @@ h2, h3{
 	display:block;
 	width:90%;
 	margin: 75px 75px;
+
 
 }
 #fashion {
