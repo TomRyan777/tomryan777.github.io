@@ -53,6 +53,7 @@ h2, h3{
 #articles img {
 	display:block;
 	width:90%;
+	margin: 75px 75px;
 
 }
 #fashion {
@@ -82,7 +83,7 @@ h2, h3{
 #description {
 	font-size: 1.5em;
 	color: rgb(255,255,255);
-	margin: 25px 25px;
+	margin: 75px 75px;
 	padding: 1em 1em;
 	
 }
@@ -96,7 +97,7 @@ h2, h3{
 	border: 1% black solid;
 	padding: 20%;
 	color: rgb(105, 105, 105);
-	margin: 25px 25px;
+	margin: 75px 75px;
 }
 
 #style {
@@ -104,7 +105,7 @@ h2, h3{
 	border: 1% black solid;
 	padding: 20%;
 	color: rgb(105,105,105);
-	margin: 25px 25px;
+	margin: 75px 75px;
 }
 
 #property {
